@@ -1,0 +1,21 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "Studying TypeScript",
+  "main": "index.js",
+  
+  "keywords": [],
+  "scripts": {
+    "cev": "tsx"
+  },
+  "author": {
+    "name": "Fabio Sena",
+    "email": "fabiosena1436@gmail.com",
+    "url": "https://github.com/fabiosena1436"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.5"
+  }
+}
